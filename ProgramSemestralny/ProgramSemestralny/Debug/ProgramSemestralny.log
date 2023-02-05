@@ -1,0 +1,14 @@
+﻿  alphabet.c
+C:\Users\Laptop\Desktop\ZUT\Programowanie\ProgramSemestralny\ProgramSemestralny\alphabet.c(28,17): warning C4098: "alphabet_department": funkcja "void" zwraca wartość
+  animals.c
+C:\Users\Laptop\Desktop\ZUT\Programowanie\ProgramSemestralny\ProgramSemestralny\animals.c(27,17): warning C4098: "animals_department": funkcja "void" zwraca wartość
+  colors.c
+C:\Users\Laptop\Desktop\ZUT\Programowanie\ProgramSemestralny\ProgramSemestralny\colors.c(27,17): warning C4098: "section_colors": funkcja "void" zwraca wartość
+  days.c
+C:\Users\Laptop\Desktop\ZUT\Programowanie\ProgramSemestralny\ProgramSemestralny\days.c(27,17): warning C4098: "days_department": funkcja "void" zwraca wartość
+  months.c
+C:\Users\Laptop\Desktop\ZUT\Programowanie\ProgramSemestralny\ProgramSemestralny\months.c(27,17): warning C4098: "months_department": funkcja "void" zwraca wartość
+  numbers.c
+C:\Users\Laptop\Desktop\ZUT\Programowanie\ProgramSemestralny\ProgramSemestralny\numbers.c(27,17): warning C4098: "numbers_division": funkcja "void" zwraca wartość
+  Generowanie kodu...
+  ProgramSemestralny.vcxproj -> C:\Users\Laptop\Desktop\ZUT\Programowanie\ProgramSemestralny\Debug\ProgramSemestralny.exe

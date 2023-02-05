@@ -1,0 +1,13 @@
+12
+bialy white
+czarny black
+szary gray
+zolty yellow
+pomaranczowy orange
+brazowy brown
+czerwony red
+rozowy pink
+fioletowy purple
+niebieski blue
+zielony green
+srebrny silver

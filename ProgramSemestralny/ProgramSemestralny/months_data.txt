@@ -1,0 +1,13 @@
+12
+styczen january
+luty february
+marzec march
+kwiecieñ april
+maj may
+czerwiec june
+listopad july
+sierpien august
+wrzesien september
+pazdziernik october
+listopad november
+grudzien december
